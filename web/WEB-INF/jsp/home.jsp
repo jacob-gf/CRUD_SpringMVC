@@ -11,7 +11,7 @@
     <body>
         <div class="container">
             <div class="row">
-                <h1>TU Y YO POR SIEMPRE MI AMOR.......TE AMO JHx100pre</h1>
+                <h1>Lista de Usuarios Spring MVC</h1>
                 <p>
                     <a href="<c:url value="add.html" />" class="btn btn-success"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span>Agregar</a>
                 </p>
